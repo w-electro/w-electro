@@ -3,6 +3,8 @@
 **Full-stack builder in Ha'il, Saudi Arabia.** Business Administration graduate — no CS degree.
 I design, build, deploy and run Arabic-first software on my own: web, mobile, desktop, payments, AI.
 
+**Full build record:** [English](https://w-electro.github.io/portfolio/) · [العربية](https://w-electro.github.io/portfolio/ar/)
+
 ### Live in production
 
 | | |
